@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Features Slideshow feature.
- */
-
-include_once 'features_slideshow.features.inc';
